@@ -17,7 +17,7 @@
 
 - 📫 Podes contactarme en **n30m0u5trØk1ll3r_2k2#0056**
 
-- ⚡ Dato gracioso **tengo 28 años XD**
+- ⚡ Dato gracioso **no**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
