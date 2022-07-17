@@ -11,7 +11,7 @@
 
 - 🤝 Busco ayuda con **nada**
 
-- 👨‍💻 Mi projectos pueden o no estar disponibles en [http://nyet.com/](http://nyet.com/)
+- 👨‍💻 Mi projectos pueden o no estar disponibles en [http://nyet.eu.org/](http://nyet.eu.org/)
 
 - 💬 Preguntame sobre **cualquier lenguaje que sepa.**
 
