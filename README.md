@@ -15,7 +15,7 @@
 
 - 💬 Preguntame sobre **cualquier lenguaje que sepa.**
 
-- 📫 Podes contactarme en **n30m0u5trØk1ll3r_2k2#0056**
+- 📫 Podes contactarme en **(-_-)_neomoustro#5663**
 
 - ⚡ Dato gracioso **no**
 
