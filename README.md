@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, Soy nyetHash, o bien conocido como Neomoustro en 2007</h1>
-<h3 align="center">Un tipo que es troll desde 2007 y que se dedica a programar y a abusar de su libertad.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zjuack&label=Profile%20views&color=0e75b6&style=flat" alt="zjuack" /> </p>
 
@@ -14,8 +13,6 @@
 - 👨‍💻 Mi projectos pueden o no estar disponibles en [http://nyet.eu.org/](http://nyet.eu.org/)
 
 - 💬 Preguntame sobre **cualquier lenguaje que sepa.**
-
-- 📫 Podes contactarme en **(-_-)_neomoustro#5663**
 
 - ⚡ Dato gracioso **no**
 
